@@ -69,7 +69,7 @@ java -cp ".;mysql-connector-java-8.0.28.jar" CakeManagementSystem
 **Simaab Malik** (SAP ID: 54910)  
 BS Software Engineering  
 Riphah International University  
-**Supervisor**: Ma'am Sabahat Ajaz  
+**Supervisor**: Ma'am Seemab  
 **Session**: Spring 2025 - 4th Sem
 
 ---
